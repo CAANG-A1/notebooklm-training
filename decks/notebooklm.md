@@ -252,7 +252,7 @@ NotebookLM is a **personalized AI research assistant** powered by Google's Gemin
 
 <div class="small-img">
 
-![NotebookLM Dashboard](img/notebooklm/dashboard.png)
+![NotebookLM Dashboard](img/notebook/notebookmain.png)
 
 </div>
 
