@@ -669,6 +669,16 @@ Set a professional profile once (e.g., "Software Engineer at a healthcare startu
 
 ### The Core Workflow Loop
 
+1. Upload sources (PDFs, Sheets, YouTube, etc.)
+   ↓
+2. Run Deep Research (optional — adds web intel)
+   ↓
+3. Chat & verify with citations
+   ↓
+4. Generate artifacts (Audio/Video/Reports)
+   ↓
+5. Save key insights to notes
+
 <div class="annotated-ui">
 
 ![Source Counter](img/notebooklm/source-counter.png)
@@ -689,6 +699,7 @@ Set a professional profile once (e.g., "Software Engineer at a healthcare startu
 :::
 
 ---
+
 
 ## Security & Privacy
 
